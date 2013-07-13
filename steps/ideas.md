@@ -6,19 +6,42 @@
 4. wprowadzenie do CSS
 5. przeniesienie zaprojektowanej strony do HTML/CSS
 
+__Materiały__
+
+  * [Web Fundamentals, Codecademy](http://www.codecademy.com/tracks/web)
+  * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+
 ### Hosting
 
 1. nginx
 2. umieszczenie wcześniej przygotowanej strony na serwerze nginx
 
+__Źródła__
+
+  * [nginx](http://nginx.org/)
+
+
 ### Kontrola historii projektu
 
 1. wprowadzenie do gita
+
+__Materiały__
+
+  * [Try Git, Codeschool](http://try.github.io)
+  * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+  * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+  * [Pro Git](http://git-scm.com/book)
+
 
 ### Pierwsza aplikacja internetowa
 
 1. wprowadzenie do Sinatry
 2. stworzenie kilku małych aplikacji
+
+__Materiały__
+
+  * [Sinatra: Getting started](http://www.sinatrarb.com/intro.html)
+
 
 ### Wprowadzenie do Rubiego
 
@@ -26,12 +49,25 @@
 2. Ruby jako język obiektowy
 3. klasy, metody
 
+__Materiały__
+
+  * [RubyMonk](http://rubymonk.com/)
+  * [Ruby documentation](http://ruby-doc.org/)
+
+
 ### Aplikacje w Ruby on Rails
 1. wprowadzenie do Ruby on Rails, wygenerowanie pierwszej aplikacji
 2. omówienie modelu MVC + routing
 3. prosta aplikacja (bez bazy danych)
 4. więcej o modelach i bazach danych
 5. prosta aplikacja z bazą danych
+
+__Materiały__
+
+  * [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+  * [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+  * [Ruby on Rails API](http://api.rubyonrails.org/)
+
 
 ### Projekty
 
