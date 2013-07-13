@@ -78,7 +78,3 @@ __Materiały__
   * [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
   * [Ruby on Rails Guides](http://guides.rubyonrails.org/)
   * [Ruby on Rails API](http://api.rubyonrails.org/)
-
-
-### Projekty
-
