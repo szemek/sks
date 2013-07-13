@@ -1,4 +1,4 @@
-### Pomysły (mini-)projektów w Sinatrze:
+### Pomysły projektów w Sinatrze:
 
 1. mnożenie dwóch liczb podanych w formularzu
 2. strona-wizytówka
