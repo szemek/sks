@@ -6,3 +6,4 @@
 4. planer wycieczek
 5. statystyki wydatków
 6. słownik
+7. budżet domowy
