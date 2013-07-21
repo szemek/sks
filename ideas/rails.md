@@ -6,3 +6,4 @@
 4. planer wycieczek
 5. budżet domowy
 6. słownik
+7. wypożyczalnia książek/filmów/samochodów etc.
