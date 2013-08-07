@@ -64,6 +64,7 @@ __Materiały__
 
   * [RubyMonk](http://rubymonk.com/)
   * [Ruby Koans](http://rubykoans.com)
+  * [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/)
   * [Ruby documentation](http://ruby-doc.org/)
 
 
