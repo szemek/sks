@@ -42,6 +42,8 @@ __Materiały__
   * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
   * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
   * [Pro Git](http://git-scm.com/book)
+  * [Learn Version Control with Gi](https://www.git-tower.com/learn/ebook)
+  * [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
 
 
 ### Pierwsza aplikacja internetowa
