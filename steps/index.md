@@ -21,6 +21,7 @@ __Materiały__
 
   * [Web Fundamentals, Codecademy](http://www.codecademy.com/tracks/web)
   * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+  * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/index.html)
 
 ### Hosting
 
