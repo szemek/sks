@@ -8,3 +8,4 @@
 6. słownik
 7. wypożyczalnia książek/filmów/samochodów etc.
 8. galeria zdjęć
+9. fiszki
