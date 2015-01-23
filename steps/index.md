@@ -23,6 +23,7 @@ __Materiały__
   * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
   * [Moja pierwsza strona internetowa w HTML5 i CSS3](http://ferrante.pl/books/html/index.html)
   * [CSS Diner - Where we feast on CSS Selectors!](http://flukeout.github.io/)
+  * [A playlist for learning design](http://writing.mariusz.cc/learn-ux-design/)
 
 ### Hosting
 
