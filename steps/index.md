@@ -47,6 +47,7 @@ __Materiały__
   * [Pro Git](http://git-scm.com/book)
   * [Learn Version Control with Git](https://www.git-tower.com/learn/ebook)
   * [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+  * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 
 
 ### Pierwsza aplikacja internetowa
